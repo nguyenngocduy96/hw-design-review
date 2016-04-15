@@ -11,10 +11,16 @@ suspicious of should still get a good review.)
 The presenting team will give a roughly 10 minute presentation on the
 main technical challenges faced in their project.
 
-The presentation does **not** need to include an overview of the
+The presentation should include only a **very brief** overview of the
 customer need, since the reviewing team(s) will have obtained this
 information before the presentation, either by watching recorded
 interviews or inspecting other project documentation.
+
+The main points you should cover are:
+
+* One or more specific technical challenges you faced, and how you addressed them
+* What worked well and not-so-well in terms of your interaction with the customer (both in the iteration meetings and any other communications) 
+* What worked well and not-so-well (or what you wish you had done differently/better) in terms of your team's technical approach to working together, following the Agile practices each iteration, and so on
 
 To keep in mind while preparing your presentation:
 
@@ -43,8 +49,7 @@ The review should address at least the following:
 did the speaker(s) make
 eye contact with the audience, or just read off a page?
 
-* Was the
-sequence of ideas clearly presented?  Did the content of the slides
+* Were the technical ideas clearly presented?  Did the content of the slides
 complement what was being said, or were the slides mostly paragraphs of
 text pasted into PowerPoint?
 
